@@ -1,2 +1,4 @@
 # hello-world
-Mijn eerste repository
+Hi Humans,
+
+Dit is mijn eerste repository
